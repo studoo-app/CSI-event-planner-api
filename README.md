@@ -3,7 +3,7 @@
 
 ---
 
-## **Exercice 1 : Première entité et API automatique**
+## **Etape 1 : Première entité et API automatique**
 
 ### Objectifs
 - Créer une entité Doctrine Event
@@ -29,7 +29,7 @@ Créez l'entité Event avec les propriétés suivantes :
 
 ---
 
-## **Exercice 2 : Authentification JWT**
+## **Etape 2 : Authentification JWT**
 
 ### Objectifs
 - Sécuriser l'API avec l'authentification JWT
@@ -63,7 +63,7 @@ Créez l'entité Event avec les propriétés suivantes :
 
 ---
 
-## **Exercice 3 : Personnalisation des opérations**
+## **Etape 3 : Personnalisation des opérations**
 
 ### Objectifs
 - Personnaliser les opérations disponibles
@@ -96,7 +96,7 @@ Créez l'entité Event avec les propriétés suivantes :
 
 ---
 
-## **Exercice 4 : Sérialisation et groupes**
+## **Etape 4 : Sérialisation et groupes**
 
 ### Objectifs
 - Contrôler les données exposées dans l'API
@@ -130,7 +130,7 @@ Créez l'entité Event avec les propriétés suivantes :
 
 ---
 
-## **Exercice 5 : Validation et contraintes**
+## **Etape 5 : Validation et contraintes**
 
 ### Objectifs
 - Ajouter la validation des données
@@ -160,7 +160,7 @@ Créez l'entité Event avec les propriétés suivantes :
 
 ---
 
-## **Exercice 6 : Filtres et recherche**
+## **Etape 6 : Filtres et recherche**
 
 ### Objectifs
 - Implémenter la recherche et le filtrage
@@ -181,13 +181,13 @@ Créez l'entité Event avec les propriétés suivantes :
 
 3. Testez tous les filtres via l'interface (en tant qu'utilisateur authentifié)
 
-4. **Exercice bonus :** Ajoutez un filtre par statut d'événement (à venir, en cours, terminé)
+4. **Etape bonus :** Ajoutez un filtre par statut d'événement (à venir, en cours, terminé)
 
 5. Vérifiez que les filtres respectent les permissions (certains utilisateurs peuvent voir plus d'informations)
 
 ---
 
-## **Exercice 7 : Opérations personnalisées**
+## **Etape 7 : Opérations personnalisées**
 
 ### Objectifs
 - Créer des endpoints personnalisés
@@ -228,7 +228,7 @@ Créez l'entité Event avec les propriétés suivantes :
 
 ---
 
-## **Exercice 8 : Tests et finalisation**
+## **Etape 8 : Tests et finalisation**
 
 ### Objectifs
 - Tester l'API complète
