@@ -1,4 +1,7 @@
+![separe](https://github.com/studoo-app/.github/blob/main/profile/studoo-banner-logo.png)
 # TP ApiPlatform - API de gestion d'événements
+[![Version](https://img.shields.io/badge/Version-2025-blue)]()
+
 **Objectif** : Construire une API REST complète et sécurisée avec ApiPlatform
 
 ---
