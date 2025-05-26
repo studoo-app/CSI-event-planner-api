@@ -1,0 +1,13 @@
+services:
+  web:
+    container_name: web
+    build:
+      context: .
+      dockerfile: ./utils/recipes/Dockerfile
+    volumes:
+      - ./api:/var/www
+      - ./utils/recipes/conf:/etc/apache2/sites-enabled
+    ports:
+      - "8002:80"
+    environment:
+      - SERVER_NAME=:80
